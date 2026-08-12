@@ -42,7 +42,7 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/NiroHuynh/SWP_AutoCarWash_BE.git
+   git clone https://github.com/lekikikingan/SWP_AutoCarWash_BE.git
    ```
 2. Install dependencies
    ```bash
@@ -168,7 +168,7 @@ This is an academic project built for a university course (SWP), not published u
 
 ## The GitHub Repository
 
-https://github.com/NiroHuynh/SWP_AutoCarWash_BE
+https://github.com/lekikikingan/SWP_AutoCarWash_BE
 
 ## Developer Checklist
 
