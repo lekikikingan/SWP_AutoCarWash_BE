@@ -1,6 +1,27 @@
-# HydroLux
+<img width="762" height="761" alt="image" src="https://github.com/user-attachments/assets/6af54bd4-0b56-4154-976c-397fafe46fc8" /># HydroLux
 
 Backend REST API for HydroLux, a car wash service management platform. It connects customers who book and pay for wash services online, staff who operate wash stations and the wash queue, and admins who manage stations, staff, pricing, promotions, and subscriptions.
+
+
+
+## Table of Contents
+
+- [Features](#features)
+  - [Core Flow Walkthrough (GIF)](#core-flow-walkthrough-gif)
+  - [Core Feature Screenshots](#core-feature-screenshots)
+- [Tech Stack](#tech-stack)
+- [Quick Start](#quick-start)
+  - [Prerequisites](#prerequisites)
+  - [Installations](#installations)
+- [Repository Structure](#repository-structure)
+  - [Architecture Overview](#architecture-overview)
+  - [Example API Endpoints](#example-api-endpoints)
+  - [Authentication](#authentication)
+  - [Environment Variables](#environment-variables)
+  - [Testing](#testing)
+- [License](#license)
+- [The GitHub Repository](#the-github-repository)
+- [Developer Checklist](#developer-checklist)
 
 ## Features
 
@@ -15,6 +36,41 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 - **Family Group** – create a family group and add/search/remove members for shared subscriptions
 - **Admin Management** – manage employees, stations, wash lanes, provinces/communes, service packages, add-ons, promotions/vouchers, and subscription plans
 - **Dashboard** – view operational summary and revenue charts, configure system settings
+ ### Core Flow Walkthrough (GIF)
+
+<div align="center">
+  <img src="assets/Home.gif" width="600">
+
+  *HydroLux homepage*
+
+  <img src="assets/Booking.gif" width="600">
+
+  *Booking flow — select service, real-time slot booking*
+
+  <img src="assets/check-in.gif" width="600">
+
+  *Walk-in & Check-in*
+</div>
+
+### Core Feature Screenshots
+
+<details>
+<summary>Click to expand</summary>
+
+**Booking**
+![Service Packages](assets/ServicePackages.png)
+
+**Loyalty**
+![Loyalty Page](assets/LoyaltyPage.png)
+
+**Subscription**
+![Unlimited Packages](assets/UnlimitedPackages.png)
+![Family Packages](assets/FamilyPackages.png)
+
+**Family Group**
+![Create Family](assets/CreateFamily.png)
+
+</details>
 
 ## Tech Stack
 
@@ -169,6 +225,7 @@ This is an academic project built for a university course (SWP), not published u
 ## The GitHub Repository
 
 https://github.com/lekikikingan/SWP_AutoCarWash_BE
+
 
 ## Developer Checklist
 
