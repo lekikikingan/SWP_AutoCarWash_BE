@@ -2,6 +2,21 @@
 
 Backend REST API for HydroLux, a car wash service management platform. It connects customers who book and pay for wash services online, staff who operate wash stations and the wash queue, and admins who manage stations, staff, pricing, promotions, and subscriptions.
 
+## Demo
+<div align="center">
+  <img src="assets/Home.gif" width="600">
+  
+  *HydroLux homepage*
+
+  <img src="assets/Booking.gif" width="600">
+  
+  *Booking flow — select service, real-time slot booking*
+
+  <img src="assets/check-in.gif" width="600">
+  
+  *Walk-in & Check-in*
+</div>
+
 ## Table of Contents
 
 - [Features](#features)
@@ -32,6 +47,25 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 - **Family Group** – create a family group and add/search/remove members for shared subscriptions
 - **Admin Management** – manage employees, stations, wash lanes, provinces/communes, service packages, add-ons, promotions/vouchers, and subscription plans
 - **Dashboard** – view operational summary and revenue charts, configure system settings
+  
+## Screenshots
+
+
+<summary>More feature screenshots (click to expand)</summary>
+
+**Booking**
+![Service Packages](assets/ServicePackages.png)
+
+**Loyalty**
+![Loyalty Page](assets/LoyaltyPage.png)
+
+**Subscription**
+![Unlimited Packages](assets/UnlimitedPackages.png)
+![Family Packages](assets/FamilyPackages.png)
+
+**Family Group**
+![Create Family](assets/CreateFamily.png)
+
 
 ## Tech Stack
 
