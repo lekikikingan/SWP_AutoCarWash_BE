@@ -1,4 +1,4 @@
-<img width="762" height="761" alt="image" src="https://github.com/user-attachments/assets/6af54bd4-0b56-4154-976c-397fafe46fc8" /># HydroLux
+# HydroLux
 
 Backend REST API for HydroLux, a car wash service management platform. It connects customers who book and pay for wash services online, staff who operate wash stations and the wash queue, and admins who manage stations, staff, pricing, promotions, and subscriptions.
 
