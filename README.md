@@ -1,25 +1,14 @@
-# HydroLux
+<img width="762" height="761" alt="image" src="https://github.com/user-attachments/assets/6af54bd4-0b56-4154-976c-397fafe46fc8" /># HydroLux
 
 Backend REST API for HydroLux, a car wash service management platform. It connects customers who book and pay for wash services online, staff who operate wash stations and the wash queue, and admins who manage stations, staff, pricing, promotions, and subscriptions.
 
-## Demo
-<div align="center">
-  <img src="assets/Home.gif" width="600">
-  
-  *HydroLux homepage*
 
-  <img src="assets/Booking.gif" width="600">
-  
-  *Booking flow — select service, real-time slot booking*
-
-  <img src="assets/check-in.gif" width="600">
-  
-  *Walk-in & Check-in*
-</div>
 
 ## Table of Contents
 
 - [Features](#features)
+  - [Live Walkthrough (GIF)](#live-walkthrough-gif)
+  - [Feature Screenshots](#feature-screenshots)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
   - [Prerequisites](#prerequisites)
@@ -47,11 +36,26 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 - **Family Group** – create a family group and add/search/remove members for shared subscriptions
 - **Admin Management** – manage employees, stations, wash lanes, provinces/communes, service packages, add-ons, promotions/vouchers, and subscription plans
 - **Dashboard** – view operational summary and revenue charts, configure system settings
-  
-## Screenshots
+ ### Live Walkthrough (GIF)
 
+<div align="center">
+  <img src="assets/Home.gif" width="600">
 
-<summary>More feature screenshots (click to expand)</summary>
+  *HydroLux homepage*
+
+  <img src="assets/Booking.gif" width="600">
+
+  *Booking flow — select service, real-time slot booking*
+
+  <img src="assets/check-in.gif" width="600">
+
+  *Walk-in & Check-in*
+</div>
+
+### Feature Screenshots
+
+<details>
+<summary>Click to expand</summary>
 
 **Booking**
 ![Service Packages](assets/ServicePackages.png)
@@ -66,6 +70,7 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 **Family Group**
 ![Create Family](assets/CreateFamily.png)
 
+</details>
 
 ## Tech Stack
 
