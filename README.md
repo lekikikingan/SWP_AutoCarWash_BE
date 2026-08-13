@@ -7,8 +7,8 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 ## Table of Contents
 
 - [Features](#features)
-  - [Live Walkthrough (GIF)](#live-walkthrough-gif)
-  - [Feature Screenshots](#feature-screenshots)
+  - [Core Flow Walkthrough (GIF)](#core-flow-walkthrough-gif)
+  - [Core Feature Screenshots](#core-feature-screenshots)
 - [Tech Stack](#tech-stack)
 - [Quick Start](#quick-start)
   - [Prerequisites](#prerequisites)
@@ -36,7 +36,7 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 - **Family Group** – create a family group and add/search/remove members for shared subscriptions
 - **Admin Management** – manage employees, stations, wash lanes, provinces/communes, service packages, add-ons, promotions/vouchers, and subscription plans
 - **Dashboard** – view operational summary and revenue charts, configure system settings
- ### Live Walkthrough (GIF)
+ ### Core Flow Walkthrough (GIF)
 
 <div align="center">
   <img src="assets/Home.gif" width="600">
@@ -52,7 +52,7 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
   *Walk-in & Check-in*
 </div>
 
-### Feature Screenshots
+### Core Feature Screenshots
 
 <details>
 <summary>Click to expand</summary>
