@@ -54,9 +54,6 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 
 ### Core Feature Screenshots
 
-<details>
-<summary>Click to expand</summary>
-
 **Booking**
 ![Service Packages](assets/ServicePackages.png)
 
@@ -70,7 +67,6 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 **Family Group**
 ![Create Family](assets/CreateFamily.png)
 
-</details>
 
 ## Tech Stack
 
