@@ -54,19 +54,37 @@ Backend REST API for HydroLux, a car wash service management platform. It connec
 
 ### Core Feature Screenshots
 
-**Booking**
+<h4 align="center">Service Selection</h4>
+
 ![Service Packages](assets/ServicePackages.png)
-
-**Loyalty**
-![Loyalty Page](assets/LoyaltyPage.png)
-
-**Subscription**
 ![Unlimited Packages](assets/UnlimitedPackages.png)
 ![Family Packages](assets/FamilyPackages.png)
 
-**Family Group**
+<h4 align="center">Booking Flow</h4>
+
+![ChooseStation](assets/ChooseStation.png)
+![ChooseVehicleServicesAndAdd-on](assets/ChooseVehicleServicesAndAdd-on.png)
+![Step5-6](assets/Step5-6.png)
+
+<h4 align="center">Walk-In Check-In</h4>
+
+![Walk-InCheck-In](assets/Walk-InCheck-In.png)
+
+<h4 align="center">Real-Time Queue Tracking</h4>
+
+![LiveQueueManagement](assets/LiveQueueManagement.png)
+
+<h4 align="center">Membership & Subscription</h4>
+
+![UnlimitedSubscription](assets/UnlimitedSubscription.png)
+
+<h4 align="center">Family Group Management</h4>
+
 ![Create Family](assets/CreateFamily.png)
 
+<h4 align="center">Loyalty & Rewards</h4>
+
+![Loyalty Page](assets/LoyaltyPage.png)
 
 ## Tech Stack
 
